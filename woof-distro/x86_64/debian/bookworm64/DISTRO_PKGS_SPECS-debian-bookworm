@@ -145,7 +145,7 @@ yes|libxml2-dev|libxml2-dev|exe,dev,doc,nls||deps:yes # dependency of fpm2
 yes|lxtask|lxtask|exe,dev,doc,nls||deps:yes
 yes|man-db|man-db|exe,dev,doc,nls||deps:yes
 yes|mesa-vulkan-drivers|mesa-vulkan-drivers|exe,dev,doc,nls||deps:yes
-yes|mpv|mpv|exe,dev,doc,nls||deps:yes
+no|mpv|mpv|exe,dev,doc,nls||deps:yes
 yes|netpbm|netpbm|exe,dev,doc,nls||deps:yes # dependency of wl_colpick
 yes|nettle-dev|nettle-dev|exe,dev,doc,nls||deps:yes # dependency of fpm2
 yes|nscd|unscd|exe||deps:yes
