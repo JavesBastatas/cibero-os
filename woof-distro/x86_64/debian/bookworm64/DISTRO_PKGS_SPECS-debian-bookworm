@@ -151,7 +151,7 @@ no|nettle-dev|nettle-dev|exe,dev,doc,nls||deps:yes # dependency of fpm2
 yes|nscd|unscd|exe||deps:yes
 yes|putty|putty|exe,dev,doc,nls||deps:yes
 yes|synaptic|synaptic|exe,dev,doc,nls||deps:yes
-yes|transmission-gtk|transmission-gtk|exe,dev,doc,nls||deps:yes
+no|transmission-gtk|transmission-gtk|exe,dev,doc,nls||deps:yes
 yes|viewnior|viewnior|exe,dev,doc,nls||deps:yes
 yes|weechat|weechat,weechat-curses,weechat-headless|exe,dev,doc,nls||deps:yes
 yes|wf-recorder|wf-recorder|exe,dev,doc,nls||deps:yes
