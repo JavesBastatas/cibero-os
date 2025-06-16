@@ -153,7 +153,7 @@ yes|putty|putty|exe,dev,doc,nls||deps:yes
 yes|synaptic|synaptic|exe,dev,doc,nls||deps:yes
 no|transmission-gtk|transmission-gtk|exe,dev,doc,nls||deps:yes
 no|viewnior|viewnior|exe,dev,doc,nls||deps:yes
-yes|weechat|weechat,weechat-curses,weechat-headless|exe,dev,doc,nls||deps:yes
+no|weechat|weechat,weechat-curses,weechat-headless|exe,dev,doc,nls||deps:yes
 yes|wf-recorder|wf-recorder|exe,dev,doc,nls||deps:yes
 yes|xarchiver|xarchiver|exe,dev,doc,nls||deps:yes
 "
