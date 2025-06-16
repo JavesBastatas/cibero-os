@@ -162,7 +162,7 @@ fi
 if [ "$DISTRO_VARIANT" != "barebones" ]; then
 PKGS_SPECS_TABLE="$PKGS_SPECS_TABLE
 no|abiword|abiword|exe,dev,doc,nls||deps:yes
-yes|gnome-mahjongg|gnome-mahjongg|exe,dev,doc,nls||deps:yes
+no|gnome-mahjongg|gnome-mahjongg|exe,dev,doc,nls||deps:yes
 no|gnumeric|gnumeric|exe,dev,doc,nls||deps:yes
 yes|nethack-console|nethack-console|exe,dev,doc,nls||deps:yes
 "
